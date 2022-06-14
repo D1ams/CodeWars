@@ -1,0 +1,15 @@
+
+def distribution_of(gold):
+    n = len(gold)
+    if n == 1:
+        return gold[0]
+    if n == 2:
+        return max(gold[0], gold[1])
+    start = gold[]
+
+
+    pass
+
+
+gg = [12, 15]
+print(distribution_of(gg))
